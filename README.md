@@ -1,6 +1,6 @@
 # gotestfmt: go test output for humans
 
-⚠️⚠️⚠️ Please switch to GoTestTools/gotestfmt-action. This repository will be deleted on January 1, 2023. ⚠️⚠️⚠️
+**⚠️⚠️⚠️ Please switch to GoTestTools/gotestfmt-action. This repository will be deleted on January 1, 2023. ⚠️⚠️⚠️**
 
 This action uses [gotestfmt](https://github.com/haveyoudebuggedit/gotestfmt) to create a beautifully formatted test output in GitHub Actions.
 
